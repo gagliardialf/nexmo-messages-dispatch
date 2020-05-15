@@ -1,0 +1,23 @@
+{
+  "name": "nexmo-messages-dispatch",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gagliardialf/nexmo-messages-dispatch.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gagliardialf/nexmo-messages-dispatch/issues"
+  },
+  "homepage": "https://github.com/gagliardialf/nexmo-messages-dispatch#readme",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "nexmo": "^2.7.0-beta-1"
+  }
+}
