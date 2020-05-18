@@ -1,4 +1,4 @@
-*Messages and Dispatch APIs Certification*
+# Messages and Dispatch APIs Certification
 
 This demo application notifies a customer that his package will be delivered tomorrow.
 
